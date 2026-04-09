@@ -1,0 +1,2 @@
+# alfadomapp.ru
+loadpage
